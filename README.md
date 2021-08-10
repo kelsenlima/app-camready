@@ -12,10 +12,10 @@ APP CAMREADY é um aprendizado em React Native + SDK Expo, simplesmente o aplica
 ## :dizzy: **Roteiro**
 
 ** Checklist **
-Certifique-se de possuir as bibliotecas abaixo, caso contrário execute a instalação com comando abaixo:
+Certifique-se de seguir os passos abaixo:
 
-1.	npm install --global expo-cli
-2.	expo init 'nome do projeto'
+1.	npm install --global expo-cli                                   
+2.	expo init 'nome do projeto'                                     
 3.	npm install no console IDE caso falte alguma dependência
 4.  expo upgrade 'Apenas se precisar atualizar o SDK'
 5.  dê permissão ao aplicativo para acesso à câmera.
