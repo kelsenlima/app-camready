@@ -19,6 +19,7 @@ Certifique-se de seguir os passos abaixo:
 3.	npm install no console IDE caso falte alguma dependência
 4.  expo upgrade 'Apenas se precisar atualizar o SDK'
 5.  dê permissão ao aplicativo para acesso à câmera.
+6.  dentro do app.js linha 58, altere 'seu-login' informando sua conta no Cloudinary e ajuste o preset.
 
 ## :zap: **Tecnologia**
 
