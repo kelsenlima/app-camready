@@ -55,10 +55,10 @@ export default function App() {
 
         let base64Img = `data:image/jpg;base64,${source}`;
         let apiUrl =
-          'https://api.cloudinary.com/v1_1/dyvowuse5/image/upload'; // Informe sua URL API
+          'https://api.cloudinary.com/v1_1/seu-login/image/upload'; // Informe sua URL API
         let data = {
           file: base64Img,
-          upload_preset: 'CamReady' 
+          upload_preset: 'seu-preset' 
         };
 
         fetch(apiUrl, {
